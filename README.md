@@ -1,5 +1,5 @@
 
-#Strace
+# Strace
 
 Reproduction the Strace command of linux in C
 
